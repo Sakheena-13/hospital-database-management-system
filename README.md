@@ -15,6 +15,8 @@ The **Hospital Management System (HMS)** is a database-driven project designed t
 * 🔗 Table Relationships using Foreign Keys
 * 📊 Advanced SQL Queries (Joins, Subqueries, Views)
 * ⚙️ Triggers and Cursors Implementation
+  <img width="271" height="412" alt="Screenshot 2026-03-25 214411" src="https://github.com/user-attachments/assets/b66922f0-e470-42dc-8aba-09b99884e77d" />
+
 
 ---
 
@@ -84,6 +86,8 @@ hms
 SELECT patient_name, age
 FROM patient
 WHERE age > (SELECT AVG(age) FROM patient);
+<img width="186" height="169" alt="Screenshot 2026-03-25 224224" src="https://github.com/user-attachments/assets/3910b134-09b4-427d-b8aa-fb18946243f4" />
+
 ```
 
 ---
@@ -121,7 +125,7 @@ git push -u origin main
 
 ## 👩‍💻 Author
 
-**Your Name**
+BURUGULA MEHAR SAKHEENA
 
 ---
 
